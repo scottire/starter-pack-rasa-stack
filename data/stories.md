@@ -22,6 +22,10 @@
 * threaten
  - utter_threat_response
 
+## ask_howdoing
+* ask_howdoing
+    - utter_ask_howdoing
+
 ## ask_about_object
 * ask_about_stolen_object
  - utter_stolen_object_response

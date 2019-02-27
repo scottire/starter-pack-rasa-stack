@@ -1,10 +1,58 @@
 ## intent:affirm
 - yes
-- yes sure
+- of course
+- sure
+- yeah
+- ok
+- cool
+- go for it
+- yep
+- yep, will do thank you
+- I'm sure I will!
+- oh awesome!
+- Yes
+- accept
+- I accept
+- i accept
+- ok i accept
+- I changed my mind. I want to accept it
+- ok cool
+- alright
+- i will!
+- ok, I behave now
+- yop
+- oki doki
+- yes please
+- yes please!
+- jo
+- yep if i have to
+- amayzing
+- confirm
+- nice
+- coolio
+- definitely yes without a doubt
+- yas
+- yup
+- perfect
+- sure thing
 - absolutely
-- for sure
-- yes yes yes
-- definitely
+- Oh, ok
+- Sure
+- hm, i'd like that
+- ja
+- sure!
+- yes i accept
+- Sweet
+- amazing!
+- how nice!
+- cool!
+- yay
+- yes accept please
+- great
+- oh cool
+- yes
+- fine
+
 
 ## intent:ask_time
 - what is the current time?
@@ -91,6 +139,53 @@
 - What location are you from?
 - What's the name of the place you came from?
 
+## intent:ask_howdoing
+- Ahoy matey how are you?
+- are you alright
+- are you having a good day
+- Are you ok?
+- are you okay
+- Do you feel good?
+- how are things going
+- how are things with you?
+- How are things?
+- how are you
+- how are you doing
+- how are you doing this morning
+- how are you feeling
+- how are you today
+- How are you?
+- how do you do?
+- how have you been
+- how is it going
+- how is your day
+- how is your day going
+- how is your evening
+- How was your day?
+- How's it going
+- How's it hanging?
+- how's life
+- how's life been treating you?
+- How's life treating you friend?
+- how's your day going
+- How've you been?
+- I'm fine and you
+- is everything all right
+- Is everything ok?
+- is everything okay
+- what about your day
+- What's going on?
+- what's good
+- What's new?
+- What's up man
+- What's up
+- how are you?
+- Do you have a great day?
+- how are you doing today my sweet friend
+- how are you doing?
+- how are u
+- How are you?
+
 ## intent:ask_about_knowledge_of_event
 - Did you hear about the crime that happened?
 - Did you hear about the crime?
@@ -141,6 +236,117 @@
 - i'm off
 - see you later alligator
 - we'll speak soon
+
+## intent:out_of_scope
+- I want pizza
+- please help with my ice cream it's dripping
+- no wait go back i want a dripping ice cream but a cone that catches it so you can drink the ice cream later
+- i want a non dripping ice cream
+- hey little mama let em whisper in your ear
+- someone call the police i think the bot died
+- show me a picture of a chicken
+- neither
+- I want french cuisine
+- i am hungry
+- restaurants
+- restaurant
+- you're a loser lmao
+- can i be shown a gluten free restaurant
+- i don't care!!!!
+- i do not care how are you
+- again?
+- oh wait i gave you my work email address can i change it?
+- hang on let me find it
+- stop it, i do not care!!!
+- really? you're so touchy?
+- how come?
+- I changed my mind
+- what?
+- did i break you
+- I don't wanna tell the name of my company
+- that link doesn't work!
+- you already have that
+- this is a really frustrating experience
+- no stop
+- i want a french restaurant
+- shit bot
+- do you want to marry me?
+- give me food
+- i want food
+- udo, I want to marry you
+- i wanna party
+- shitmuncher
+- I like you
+- i want pizza
+- i want pizza!!
+- silly bot
+- i want to eat
+- you are a stupid bot
+- i hate you
+- Can I ask you questions first?
+- is it a wasteland full of broken robot parts?
+- i can't deal with _your_ request
+- are you vegan
+- who will anser my email?
+- do you sell vacuum robots?
+- i want to buy a roomba for my grandson
+- and make chicken noises into the phone
+- is barbara still married to you
+- what's your wife doing this weekend
+- how are the kids
+- you're rather dull
+- personal or work?
+- are you using Rasa Core and NLU ?
+- tell me a joke
+- what else?
+- I already told you! I'm a shitmuncher
+- I'm a shitmuncher
+- who are the engineers at rasa?
+- who are they?
+- can we keep chatting?
+- talk to me
+- who is your favourite robot?
+- a tamed mouse will arrive at your doorstep in the next couple of days
+- you will know it from the single red rose it carries between its teeth
+- i will tame a mouse for you
+- isn't the newsletter just spam?
+- go back
+- can you help me with the docs?
+- sorry, i cannot rephrase
+- and your REST API doesn't work
+- i told you already
+- better than you
+- oh my god, not again!
+- you are a badass bot!
+- lol
+- why do you need that?
+- is that any of your business
+- can you help me with your docs?
+- i immediately need help with implementing the coolest bot you can imagine
+- can you help me with your docs
+- can you tell me how to build a bot?
+- can you learn from our conversation?
+- common, just try
+- hey, I contacted you a couple of days ago but didn't get any response, any news?
+- please hurry, i have deadline in two weeks to deliver the bot it is for very big company
+- you are annoying
+- Do I have to accept?
+- Is Rasa really smart?
+- kannst du auch deutsch?
+- are the newsletter worth the subscription?
+- it's a pity
+- i want more of you in my life!
+- the one that is better than you
+- you suck
+- bots are bad
+- i dont like bots
+ - do you have a phone number?
+- where do you live?
+- how are akela's cats doing?
+- but I just told you that :(
+- Why don’t you answer?
+- But you're an english site :(
+- can you help me to build a bot
 
 ## intent:greet
 - Hello Johnny
@@ -227,6 +433,17 @@
 - amazing, thanks
 - cool, thanks
 - cool thank you
+- thanks
+- thanks!
+- Cool. Thanks
+- thanks
+- thanks this is great news
+- thank you
+- great thanks
+- Thanks!
+- cool thanks
+- thanks for forum link, I'll check it out
+- thanks!
 
 ## intent:threaten
 - i am going to tell your [mum](person).

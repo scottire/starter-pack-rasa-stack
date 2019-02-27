@@ -6,7 +6,143 @@
         "intent": "affirm"
       }, 
       {
-        "text": "yes sure", 
+        "text": "of course", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "sure", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "yeah", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "ok", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "cool", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "go for it", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "yep", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "yep, will do thank you", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "I'm sure I will!", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "oh awesome!", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "Yes", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "accept", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "I accept", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "i accept", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "ok i accept", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "I changed my mind. I want to accept it", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "ok cool", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "alright", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "i will!", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "ok, I behave now", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "yop", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "oki doki", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "yes please", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "yes please!", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "jo", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "yep if i have to", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "amayzing", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "confirm", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "nice", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "coolio", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "definitely yes without a doubt", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "yas", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "yup", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "perfect", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "sure thing", 
         "intent": "affirm"
       }, 
       {
@@ -14,16 +150,572 @@
         "intent": "affirm"
       }, 
       {
-        "text": "for sure", 
+        "text": "Oh, ok", 
         "intent": "affirm"
       }, 
       {
-        "text": "yes yes yes", 
+        "text": "Sure", 
         "intent": "affirm"
       }, 
       {
-        "text": "definitely", 
+        "text": "hm, i'd like that", 
         "intent": "affirm"
+      }, 
+      {
+        "text": "ja", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "sure!", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "yes i accept", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "Sweet", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "amazing!", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "how nice!", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "cool!", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "yay", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "yes accept please", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "great", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "oh cool", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "yes", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "fine", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "what is the current time?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "what is the time in Sydney?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "whats the time now", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "what is the time ?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "what is time in US ?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "what is time is US ?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "what is time is USA ?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "what time it is", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "What is the time?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Can you give me the time?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Time?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Do you know the time?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Can you tell the time?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Give me the time.", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Tell me the time.", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Could you tell me what time is it?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Excuse me, what time is it?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Do you know what time it is?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Could you tell me the time?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Could you tell me the time, please?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "What is the time?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Do you know the time?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Would you tell me what time it is?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Time, please!", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Pardon me, but do you know the time?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Time?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "What's the time?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Do you know what time it is?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "What's the current time?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "What time is it right now?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Do you have the time?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Can you tell me what time it is?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Hi, I need the time.", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "I need to know what time it is.", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Tell me the time.", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "What is the time?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "What's the time right now?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "What is the current time?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "Can you tell me the time?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "What might the time be?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "What is the hour and minute right now?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "What time have we got?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "What time is it right now?", 
+        "intent": "ask_time"
+      }, 
+      {
+        "text": "where do you live", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "where are you from?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "So where are you from", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "Where are you?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "Where were you born?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "What city were you born in?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "Where did you grow up?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "What state were you born in?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "What country were you born in?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "Where do you come from?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "Where were you at before you were here?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "Where from?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "Do you know where you come from?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "where's your home town?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "what country are you from?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "are you from around here?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "where did you grow up?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "where are your parents from?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "where did you spend your youth?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "where did you come from?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "Where were you born?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "Where do you consider home?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "What city do you claim to for your birth?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "What citizenship do you lay claim to?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "What is your heritage?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "What is your birthplace?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "Where did you grow up?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "You were conceived in what location?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "What is your root?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "What is your origin?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "From where did you come?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "Where did you come from?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "Where did you originate?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "Where are your roots?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "Where are your origins?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "What area are you from?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "What location are you from?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "What's the name of the place you came from?", 
+        "intent": "ask_wherefrom"
+      }, 
+      {
+        "text": "Ahoy matey how are you?", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "are you alright", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "are you having a good day", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "Are you ok?", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "are you okay", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "Do you feel good?", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "how are things going", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "how are things with you?", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "How are things?", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "how are you", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "how are you doing", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "how are you doing this morning", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "how are you feeling", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "how are you today", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "How are you?", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "how do you do?", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "how have you been", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "how is it going", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "how is your day", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "how is your day going", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "how is your evening", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "How was your day?", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "How's it going", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "How's it hanging?", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "how's life", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "how's life been treating you?", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "How's life treating you friend?", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "how's your day going", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "How've you been?", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "I'm fine and you", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "is everything all right", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "Is everything ok?", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "is everything okay", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "what about your day", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "What's going on?", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "what's good", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "What's new?", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "What's up man", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "What's up", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "how are you?", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "Do you have a great day?", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "how are you doing today my sweet friend", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "how are you doing?", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "how are u", 
+        "intent": "ask_howdoing"
+      }, 
+      {
+        "text": "How are you?", 
+        "intent": "ask_howdoing"
       }, 
       {
         "text": "Did you hear about the crime that happened?", 
@@ -34,12 +726,8 @@
         "intent": "ask_about_knowledge_of_event"
       }, 
       {
-        "text": "do you know about the crime that happened?", 
-        "intent": "ask_about_knowledge_of_event:"
-      }, 
-      {
         "text": "did you hear about the stolen goods?", 
-        "intent": "ask_about_knowledge_of_event:"
+        "intent": "ask_about_knowledge_of_event"
       }, 
       {
         "entities": [
@@ -64,10 +752,6 @@
         ], 
         "intent": "ask_about_stolen_object", 
         "text": "did you steal the money"
-      }, 
-      {
-        "text": "Do you know who stole it?", 
-        "intent": "ask_about_suspects"
       }, 
       {
         "text": "Do you know who stole it?", 
@@ -228,6 +912,442 @@
       {
         "text": "we'll speak soon", 
         "intent": "goodbye"
+      }, 
+      {
+        "text": "I want pizza", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "please help with my ice cream it's dripping", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "no wait go back i want a dripping ice cream but a cone that catches it so you can drink the ice cream later", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "i want a non dripping ice cream", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "hey little mama let em whisper in your ear", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "someone call the police i think the bot died", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "show me a picture of a chicken", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "neither", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "I want french cuisine", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "i am hungry", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "restaurants", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "restaurant", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "you're a loser lmao", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "can i be shown a gluten free restaurant", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "i don't care!!!!", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "i do not care how are you", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "again?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "oh wait i gave you my work email address can i change it?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "hang on let me find it", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "stop it, i do not care!!!", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "really? you're so touchy?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "how come?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "I changed my mind", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "what?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "did i break you", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "I don't wanna tell the name of my company", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "that link doesn't work!", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "you already have that", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "this is a really frustrating experience", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "no stop", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "i want a french restaurant", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "shit bot", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "do you want to marry me?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "give me food", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "i want food", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "udo, I want to marry you", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "i wanna party", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "shitmuncher", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "I like you", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "i want pizza", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "i want pizza!!", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "silly bot", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "i want to eat", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "you are a stupid bot", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "i hate you", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "Can I ask you questions first?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "is it a wasteland full of broken robot parts?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "i can't deal with _your_ request", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "are you vegan", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "who will anser my email?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "do you sell vacuum robots?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "i want to buy a roomba for my grandson", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "and make chicken noises into the phone", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "is barbara still married to you", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "what's your wife doing this weekend", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "how are the kids", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "you're rather dull", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "personal or work?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "are you using Rasa Core and NLU ?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "tell me a joke", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "what else?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "I already told you! I'm a shitmuncher", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "I'm a shitmuncher", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "who are the engineers at rasa?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "who are they?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "can we keep chatting?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "talk to me", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "who is your favourite robot?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "a tamed mouse will arrive at your doorstep in the next couple of days", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "you will know it from the single red rose it carries between its teeth", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "i will tame a mouse for you", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "isn't the newsletter just spam?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "go back", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "can you help me with the docs?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "sorry, i cannot rephrase", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "and your REST API doesn't work", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "i told you already", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "better than you", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "oh my god, not again!", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "you are a badass bot!", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "lol", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "why do you need that?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "is that any of your business", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "can you help me with your docs?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "i immediately need help with implementing the coolest bot you can imagine", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "can you help me with your docs", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "can you tell me how to build a bot?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "can you learn from our conversation?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "common, just try", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "hey, I contacted you a couple of days ago but didn't get any response, any news?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "please hurry, i have deadline in two weeks to deliver the bot it is for very big company", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "you are annoying", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "Do I have to accept?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "Is Rasa really smart?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "kannst du auch deutsch?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "are the newsletter worth the subscription?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "it's a pity", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "i want more of you in my life!", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "the one that is better than you", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "you suck", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "bots are bad", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "i dont like bots", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "do you have a phone number?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "where do you live?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "how are akela's cats doing?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "but I just told you that :(", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "Why don’t you answer?", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "But you're an english site :(", 
+        "intent": "out_of_scope"
+      }, 
+      {
+        "text": "can you help me to build a bot", 
+        "intent": "out_of_scope"
       }, 
       {
         "text": "Hello Johnny", 
@@ -923,6 +2043,50 @@
       }, 
       {
         "text": "cool thank you", 
+        "intent": "thanks"
+      }, 
+      {
+        "text": "thanks", 
+        "intent": "thanks"
+      }, 
+      {
+        "text": "thanks!", 
+        "intent": "thanks"
+      }, 
+      {
+        "text": "Cool. Thanks", 
+        "intent": "thanks"
+      }, 
+      {
+        "text": "thanks", 
+        "intent": "thanks"
+      }, 
+      {
+        "text": "thanks this is great news", 
+        "intent": "thanks"
+      }, 
+      {
+        "text": "thank you", 
+        "intent": "thanks"
+      }, 
+      {
+        "text": "great thanks", 
+        "intent": "thanks"
+      }, 
+      {
+        "text": "Thanks!", 
+        "intent": "thanks"
+      }, 
+      {
+        "text": "cool thanks", 
+        "intent": "thanks"
+      }, 
+      {
+        "text": "thanks for forum link, I'll check it out", 
+        "intent": "thanks"
+      }, 
+      {
+        "text": "thanks!", 
         "intent": "thanks"
       }, 
       {

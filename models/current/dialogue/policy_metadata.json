@@ -6,7 +6,7 @@
   "python": "2.7.15", 
   "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble", 
   "rasa_core": "0.12.4", 
-  "trained_at": "20190227-151831", 
+  "trained_at": "20190227-164826", 
   "policy_names": [
     "rasa_core.policies.keras_policy.KerasPolicy", 
     "rasa_core.policies.memoization.MemoizationPolicy"
@@ -39,7 +39,10 @@
     "utter_threat_response": {
       "slots": []
     }, 
-    "utter_knowledge_of_suspects": {
+    "utter_ask_howdoing": {
+      "slots": []
+    }, 
+    "utter_knowledge_of_suspect": {
       "slots": []
     }, 
     "utter_thanks": {
@@ -48,7 +51,7 @@
     "utter_whereabouts": {
       "slots": []
     }, 
-    "utter_knowledge_of_suspect": {
+    "utter_knowledge_of_suspects": {
       "slots": []
     }
   }

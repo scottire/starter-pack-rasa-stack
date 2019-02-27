@@ -12,6 +12,9 @@ actions:
 - utter_whereabouts
 - utter_knowledge_of_suspect
 - utter_affirm_knowledge_of_events
+- utter_ask_time
+- utter_possibilities
+- utter_ask_howdoing
 config:
   store_entities_as_slots: true
 entities:
@@ -29,15 +32,21 @@ intents:
     use_entities: true
 - ask_what_were_they_doing:
     use_entities: true
+- ask_howdoing:
+    use_entities: true
 - greet:
     use_entities: true
 - ask_where_abouts:
+    use_entities: true
+- ask_time:
     use_entities: true
 - thanks:
     use_entities: true
 - goodbye:
     use_entities: true
 - threaten:
+    use_entities: true
+- out_of_scope:
     use_entities: true
 - ask_to_describe_events:
     use_entities: true
@@ -63,6 +72,12 @@ slots:
 templates:
   utter_affirm_knowledge_of_events:
   - text: I heard there was a crime commited.
+  utter_ask_howdoing:
+  - text: I'm great! Thanks for asking.
+  - text: I'm good, thanks!
+  - text: A little bit too warm, otherwise fine.
+  utter_ask_time:
+  - text: It is the most wonderful time of the year!
   utter_events_description:
   - text: I think something was stolen.
   utter_goodbye:
@@ -75,6 +90,12 @@ templates:
   - text: No, I have no more info.
   utter_name:
   - text: Hey there! Tell me your name.
+  utter_out_of_scope:
+  - text: Sorry, I'm not sure I can answer that.
+  - text: I'm sorry, I don't know.
+  - text: I can't help you with that, I'm sorry.
+  utter_possibilities:
+  - text: I can only answer questions about the crime.
   utter_stolen_object_response:
   - text: I don't know anything about that object.
   utter_thanks:
