@@ -1,7 +1,132 @@
-<!--- Make sure to update this training data file with more training examples from https://forum.rasa.com/t/rasa-starter-pack/704 --> 
+## intent:affirm
+- yes
+- yes sure
+- absolutely
+- for sure
+- yes yes yes
+- definitely
 
-## intent:goodbye <!--- The label of the intent --> 
-- Bye 			<!--- Training examples for intent 'bye'--> 
+## intent:ask_time
+- what is the current time?
+- what is the time in Sydney?
+- whats the time now
+- what is the time ?
+- what is time in US ?
+- what is time is US ?
+- what is time is USA ?
+- what time it is
+- What is the time?
+- Can you give me the time?
+- Time?
+- Do you know the time?
+- Can you tell the time?
+- Give me the time.
+- Tell me the time.
+- Could you tell me what time is it?
+- Excuse me, what time is it?
+- Do you know what time it is?
+- Could you tell me the time?
+- Could you tell me the time, please?
+- What is the time?
+- Do you know the time?
+- Would you tell me what time it is?
+- Time, please!
+- Pardon me, but do you know the time?
+- Time?
+- What's the time?
+- Do you know what time it is?
+- What's the current time?
+- What time is it right now?
+- Do you have the time?
+- Can you tell me what time it is?
+- Hi, I need the time.
+- I need to know what time it is.
+- Tell me the time.
+- What is the time?
+- What's the time right now?
+- What is the current time?
+- Can you tell me the time?
+- What might the time be?
+- What is the hour and minute right now?
+- What time have we got?
+- What time is it right now?
+
+## intent:ask_wherefrom
+- where do you live
+- where are you from?
+- So where are you from
+- Where are you?
+- Where were you born?
+- What city were you born in?
+- Where did you grow up?
+- What state were you born in?
+- What country were you born in?
+- Where do you come from?
+- Where were you at before you were here?
+- Where from?
+- Do you know where you come from?
+- where's your home town?
+- what country are you from?
+- are you from around here?
+- where did you grow up?
+- where are your parents from?
+- where did you spend your youth?
+- where did you come from?
+- Where were you born?
+- Where do you consider home?
+- What city do you claim to for your birth?
+- What citizenship do you lay claim to?
+- What is your heritage?
+- What is your birthplace?
+- Where did you grow up?
+- You were conceived in what location?
+- What is your root?
+- What is your origin?
+- From where did you come?
+- Where did you come from?
+- Where did you originate?
+- Where are your roots?
+- Where are your origins?
+- What area are you from?
+- What location are you from?
+- What's the name of the place you came from?
+
+## intent:ask_about_knowledge_of_event
+- Did you hear about the crime that happened?
+- Did you hear about the crime?
+- did you hear about the stolen goods?
+
+## intent:ask_about_stolen_object
+- do you know about the stolen [barbie](object)
+- did you steal the [money](object)
+
+## intent:ask_about_suspects
+- Do you know who stole it?
+
+## intent:ask_more_info
+- do you think anything else you can tell me about that?
+- can you give me more information?
+
+## intent:ask_to_describe_events
+- what happened on the street last night?
+- please describe the event on the [Sunday](date)?
+- Do you know what happened?
+- Do you know what happened?
+
+## intent:ask_what_were_they_doing
+- What were you doing at home?
+- what did you do at that moment?
+- What were you doing last night?
+
+## intent:ask_where_abouts
+- Where were you on [Tuesday](date), December 16?
+- where were you on [Tuesday](date)?
+- On [Wednesday](date), were you at home?
+- at the time of the crime, where were you?
+- Where were you on [tuesday](date)?
+
+## intent:goodbye
+- Bye
 - Goodbye
 - See you later
 - Bye bot
@@ -18,6 +143,7 @@
 - we'll speak soon
 
 ## intent:greet
+- Hello Johnny
 - Hi
 - Hey
 - Hi bot
@@ -33,35 +159,11 @@
 - hello everybody
 - hello is anybody there
 - hello robot
-
-## intent:thanks
-- Thanks
-- Thank you
-- Thank you so much
-- Thanks bot
-- Thanks for that
-- cheers
-- cheers bro
-- ok thanks!
-- perfect thank you
-- thanks a bunch for everything
-- thanks for the help
-- thanks a lot
-- amazing, thanks
-- cool, thanks
-- cool thank you
-
-## intent:affirm
-- yes
-- yes sure
-- absolutely
-- for sure
-- yes yes yes
-- definitely
-
+- Hello Shithead
+- Howdy partner
 
 ## intent:name
-- My name is [Juste](name)  <!--- Square brackets contain the value of entity while the text in parentheses is a a label of the entity --> 
+- My name is [Juste](name)
 - I am [Josh](name)
 - I'm [Lucy](name)
 - People call me [Greg](name)
@@ -109,15 +211,24 @@
 - name is [Pari](name)
 - name [Sanjay](name)
 
+## intent:thanks
+- Thanks
+- Thank you
+- Thank you so much
+- Thanks bot
+- Thanks for that
+- cheers
+- cheers bro
+- ok thanks!
+- perfect thank you
+- thanks a bunch for everything
+- thanks for the help
+- thanks a lot
+- amazing, thanks
+- cool, thanks
+- cool thank you
 
-## intent:joke
-- Can you tell me a joke?
-- I would like to hear a joke
-- Tell me a joke
-- A joke please
-- Tell me a joke please
-- I would like to hear a joke
-- I would loke to hear a joke, please
-- Can you tell jokes?
-- Please tell me a joke
-- I need to hear a joke
+## intent:threaten
+- i am going to tell your [mum](person).
+- I will kill your [family](person).
+- Do you want me to hurt your [dad](person)?

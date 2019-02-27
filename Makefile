@@ -35,3 +35,10 @@ cmdline:
 	
 action-server:
 	python -m rasa_core_sdk.endpoint --actions actions
+
+retrain-all:
+	make train-nlu
+	make train-core
+	make action-server
+
+
