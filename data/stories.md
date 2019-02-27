@@ -69,6 +69,18 @@
 * ask_about_suspects
     - utter_knowledge_of_suspects
 
+## ask_time
+* ask_time
+    - utter_ask_time
+
+## ask_languagesbot
+* ask_languagesbot
+    - utter_ask_languagesbot
+
+## ask_wherefrom
+* ask_wherefrom
+    - utter_ask_wherefrom
+
 ## Generated Story 6637974751492485532
 * greet
     - utter_greet
