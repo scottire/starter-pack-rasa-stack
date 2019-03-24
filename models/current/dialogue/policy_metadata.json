@@ -1,64 +1,64 @@
 {
+  "max_histories": [
+    3, 
+    3
+  ], 
+  "python": "2.7.15", 
+  "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble", 
+  "rasa_core": "0.12.4", 
+  "trained_at": "20190311-211008", 
+  "policy_names": [
+    "rasa_core.policies.keras_policy.KerasPolicy", 
+    "rasa_core.policies.memoization.MemoizationPolicy"
+  ], 
   "action_fingerprints": {
-    "action_listen": {
-      "slots": [
-        "date",
-        "name"
-      ]
-    },
-    "utter_knowledge_of_suspect": {
-      "slots": []
-    },
-    "utter_stolen_object_response": {
-      "slots": []
-    },
-    "utter_thanks": {
-      "slots": []
-    },
-    "utter_events_description": {
-      "slots": []
-    },
-    "utter_threat_response": {
-      "slots": []
-    },
-    "utter_more_info": {
-      "slots": []
-    },
-    "utter_knowledge_of_suspects": {
-      "slots": []
-    },
-    "utter_goodbye": {
-      "slots": []
-    },
-    "utter_what_they_were_doing": {
-      "slots": []
-    },
     "utter_greet": {
       "slots": []
-    },
-    "utter_whereabouts": {
+    }, 
+    "utter_what_they_were_doing": {
       "slots": []
-    },
+    }, 
+    "action_listen": {
+      "slots": [
+        "date", 
+        "name"
+      ]
+    }, 
     "utter_ask_wherefrom": {
       "slots": []
-    },
-    "utter_ask_languagesbot": {
-      "slots": []
-    },
+    }, 
     "utter_ask_time": {
       "slots": []
+    }, 
+    "utter_goodbye": {
+      "slots": []
+    }, 
+    "utter_stolen_object_response": {
+      "slots": []
+    }, 
+    "utter_events_description": {
+      "slots": []
+    }, 
+    "utter_more_info": {
+      "slots": []
+    }, 
+    "utter_threat_response": {
+      "slots": []
+    }, 
+    "utter_knowledge_of_suspect": {
+      "slots": []
+    }, 
+    "utter_ask_languagesbot": {
+      "slots": []
+    }, 
+    "utter_thanks": {
+      "slots": []
+    }, 
+    "utter_whereabouts": {
+      "slots": []
+    }, 
+    "utter_knowledge_of_suspects": {
+      "slots": []
     }
-  },
-  "rasa_core": "0.13.0a4",
-  "python": "3.6.5",
-  "max_histories": [
-    3,
-    3
-  ],
-  "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
-  "policy_names": [
-    "rasa_core.policies.keras_policy.KerasPolicy",
-    "rasa_core.policies.memoization.MemoizationPolicy"
-  ],
-  "trained_at": "20190227-164752"
+  }
 }

@@ -36,6 +36,7 @@ intents:
 - ask_about_suspects
 - ask_about_stolen_object
 - ask_more_info
+
 slots:
   date:
     type: text
@@ -43,36 +44,86 @@ slots:
     type: text
   object:
     type: text
+
 templates:
   utter_affirm_knowledge_of_events:
-  - text: I heard there was a crime commited.
+  - text: utter_affirm_knowledge_of_events
   utter_events_description:
-  - text: I think something was stolen.
+  - text: utter_events_description
   utter_goodbye:
-  - text: Talk to you later!
+  - text: utter_goodbye
   utter_greet:
-  - text: Nice to you meet you, Detective. How can I help you?
+  - text: utter_greet
+
   utter_knowledge_of_suspect:
-  - text: I don't know who did it.
+  - text: utter_knowledge_of_suspect
   utter_more_info:
-  - text: No, I have no more info.
+  - text: utter_more_info
   utter_name:
-  - text: Hey there! Tell me your name.
+  - text: utter_name
   utter_stolen_object_response:
-  - text: I don't know anything about that object.
+  - text: utter_stolen_object_response
   utter_thanks:
-  - text: My pleasure.
+  - text: utter_thanks
   utter_threat_response:
-  - text: Please don't threaten me!
+  - text: utter_threat_response
   utter_what_they_were_doing:
-  - text: I was watching TV.
+  - text: utter_what_they_were_doing
   utter_whereabouts:
-  - text: I was at home.
-  utter_ask_languagesbot:
-  - text: "I can spell baguette in French, but unfortunately English is the only language I can answer you in."
-  - text: "I am in the process of learning, but at the moment I can only speak English."
-  utter_ask_wherefrom:
-  - text: "I was born in Berlin, but I consider myself a citizen of the world."
-  - text: "I was born in the coolest city on Earth"
-  utter_ask_time:
-  - text: "It is the most wonderful time of the year!"
+  - text: utter_whereabouts
+  # utter_ask_languagesbot:
+  # - text: utter_ask_languagesbot
+  # utter_ask_wherefrom:
+  # - text: utter_ask_wherefrom
+  # utter_ask_time:
+  # - text: utter_ask_time
+
+
+# templates:
+#   utter_affirm_knowledge_of_events:
+#   - text: I heard there was a crime commited.
+#   - url: "http://localhost:5055/webhook"
+#   utter_events_description:
+#   - text: I think something was stolen.
+#   - url: "http://localhost:5055/webhook"
+#   utter_goodbye:
+#   - text: Talk to you later!
+#   - url: "http://localhost:5055/webhook"
+#   utter_greet:
+#   - text: Nice to you meet you, Detective. How can I help you?
+#   - url: "http://localhost:5055/webhook"
+#   utter_knowledge_of_suspect:
+#   - text: I don't know who did it.
+#   - url: "http://localhost:5055/webhook"
+#   utter_more_info:
+#   - text: No, I have no more info.
+#   - url: "http://localhost:5055/webhook"
+#   utter_name:
+#   - text: Hey there! Tell me your name.
+#   - url: "http://localhost:5055/webhook"
+#   utter_stolen_object_response:
+#   - text: I don't know anything about that object.
+#   - url: "http://localhost:5055/webhook"
+#   utter_thanks:
+#   - text: My pleasure.
+#   - url: "http://localhost:5055/webhook"
+#   utter_threat_response:
+#   - text: Please don't threaten me!
+#   - url: "http://localhost:5055/webhook"
+#   utter_what_they_were_doing:
+#   - text: I was watching TV.
+#   - url: "http://localhost:5055/webhook"
+#   utter_whereabouts:
+#   - text: I was at home.
+#   - url: "http://localhost:5055/webhook"
+#   utter_ask_languagesbot:
+#   - text: "I can spell baguette in French, but unfortunately English is the only language I can answer you in."
+#   - text: "I am in the process of learning, but at the moment I can only speak English."
+#   - url: "http://localhost:5055/webhook"
+#   utter_ask_wherefrom:
+#   - text: "I was born in Berlin, but I consider myself a citizen of the world."
+#   - text: "I was born in the coolest city on Earth"
+#   - url: "http://localhost:5055/webhook"
+#   utter_ask_time:
+#   - text: "It is the most wonderful time of the year!"
+#   - url: "http://localhost:5055/webhook"
