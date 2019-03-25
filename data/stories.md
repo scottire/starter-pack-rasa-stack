@@ -7,7 +7,7 @@
  - utter_goodbye
 
 ## whereabouts
-* ask_whereabouts
+* ask_where_abouts
  - utter_whereabouts
 
 ## threaten
