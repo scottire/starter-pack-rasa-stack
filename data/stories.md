@@ -6,14 +6,6 @@
 * goodbye
  - utter_goodbye
 
-## story_thanks
-* thanks
- - utter_thanks
- 
-## story_name
-* name{"name":"Sam"}
- - utter_greet
- 
 ## whereabouts
 * ask_whereabouts
  - utter_whereabouts
@@ -68,18 +60,6 @@
     - utter_events_description
 * ask_about_suspects
     - utter_knowledge_of_suspects
-
-## ask_time
-* ask_time
-    - utter_ask_time
-
-## ask_languagesbot
-* ask_languagesbot
-    - utter_ask_languagesbot
-
-## ask_wherefrom
-* ask_wherefrom
-    - utter_ask_wherefrom
 
 ## Generated Story 6637974751492485532
 * greet

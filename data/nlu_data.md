@@ -1,12 +1,12 @@
-## intent:affirm
+<!-- ## intent:affirm
 - yes
 - yes sure
 - absolutely
 - for sure
 - yes yes yes
-- definitely
+- definitely -->
 
-## intent:ask_time
+<!-- ## intent:ask_time
 - what is the current time?
 - what is the time in Sydney?
 - whats the time now
@@ -49,9 +49,9 @@
 - What might the time be?
 - What is the hour and minute right now?
 - What time have we got?
-- What time is it right now?
+- What time is it right now? -->
 
-## intent:ask_wherefrom
+<!-- ## intent:ask_wherefrom
 - where do you live
 - where are you from?
 - So where are you from
@@ -89,8 +89,8 @@
 - Where are your origins?
 - What area are you from?
 - What location are you from?
-- What's the name of the place you came from?
-
+- What's the name of the place you came from? -->
+<!-- 
 ## intent:ask_languagesbot
 - Which languages do you speak?
 - What are the languages you can speak?
@@ -128,7 +128,7 @@
 - are you bilingual?
 - are you multilingual?
 - what foreign languages do you know?
-- what foreign languages are you fluent in?
+- what foreign languages are you fluent in? -->
 
 ## intent:ask_about_knowledge_of_event
 - Did you hear about the crime that happened?
@@ -138,19 +138,22 @@
 ## intent:ask_about_stolen_object
 - do you know about the stolen [barbie](object)
 - did you steal the [money](object)
+- have you stolen it?
 
 ## intent:ask_about_suspects
 - Do you know who stole it?
+- I think you know took it
 
 ## intent:ask_more_info
 - do you think anything else you can tell me about that?
 - can you give me more information?
+- Give me more information please
 
 ## intent:ask_to_describe_events
 - what happened on the street last night?
 - please describe the event on the [Sunday](date)?
 - Do you know what happened?
-- Do you know what happened?
+- Describe the night of the robbery
 
 ## intent:ask_what_were_they_doing
 - What were you doing at home?
@@ -201,7 +204,7 @@
 - Hello Shithead
 - Howdy partner
 
-## intent:name
+<!-- ## intent:name
 - My name is [Juste](name)
 - I am [Josh](name)
 - I'm [Lucy](name)
@@ -248,7 +251,7 @@
 - I'm [Partia](name)
 - Please call me [Leo](name)
 - name is [Pari](name)
-- name [Sanjay](name)
+- name [Sanjay](name) -->
 
 ## intent:thanks
 - Thanks
@@ -271,3 +274,6 @@
 - i am going to tell your [mum](person).
 - I will kill your [family](person).
 - Do you want me to hurt your [dad](person)?
+- You are going to rott in jail
+- You don't want to play with me
+
